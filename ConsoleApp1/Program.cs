@@ -14,7 +14,7 @@ namespace ConsoleApp1
 
         private static void WaitForEnter()
         {
-            Console.WriteLine("Press enter to exit... ");
+            Console.WriteLine("Press enter when ready... ");
             Console.ReadLine();
         }
 
